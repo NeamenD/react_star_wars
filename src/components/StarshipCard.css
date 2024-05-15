@@ -1,0 +1,11 @@
+.starship-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+  display: flex;
+  justify-content: center;
+  color: black;
+  flex-wrap: wrap;
+  flex: 1 1 calc(25% - 20px);
+}
